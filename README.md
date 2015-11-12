@@ -1,5 +1,6 @@
 # Hyperquick-Sort
 Instruction to compile the code:
+
 1.compilation command :
 mpicc hyperquicksort.c -o sort
 
